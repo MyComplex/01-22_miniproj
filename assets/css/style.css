@@ -1,0 +1,21 @@
+header {
+    background-color: darkblue;
+    color: white;
+    padding: 15px;
+    position: relative;
+    top: 0;
+}
+
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+footer {
+    background-color: purple;
+    color: orange;
+    padding: 15px;
+    position: absolute;
+    width: calc(100% - 30px);
+    bottom: 0;
+}
